@@ -3,6 +3,7 @@
 class CoinClass {
 public:
 	static const size_t players = 6;
+	int bet = 0, again=0;
 	bool bets[players];
 	bool result = true;
 	bool continue_game = true;

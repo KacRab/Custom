@@ -1,7 +1,2 @@
 ﻿  CoinClass.cpp
-  DiceClass.cpp
-  Main.cpp
-C:\Users\kacpe\Desktop\Custom\Project1\Main.cpp(20,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  RouletteClass.cpp
-  Generowanie kodu...
   Project1.vcxproj -> C:\Users\kacpe\Desktop\Custom\x64\Debug\Project1.exe

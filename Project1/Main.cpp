@@ -39,6 +39,7 @@ int main()
 			RouletteClass rouletteGame;
 			rouletteGame.game();
 		}
+		break;
 		default:
 			break;
 	}
